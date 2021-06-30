@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/MyLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		/pD27lI0jzBp7pcpScv5bQoIb4M=
+		WI7WAnJRcSziIggGlyw3pD7ureI=
 		</data>
 		<key>Modules/MyLibrary.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/MyLibrary.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		/pD27lI0jzBp7pcpScv5bQoIb4M=
+		WI7WAnJRcSziIggGlyw3pD7ureI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -86,7 +86,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VanKu05Rmv0e8ZGTSvrvZepnaFk/cuw76/MUOHg/EUw=
+			awMc8pFhtKG7tWR22N/Dfif7n/J7FOhXeq6BkFcfBvQ=
 			</data>
 		</dict>
 		<key>Modules/MyLibrary.swiftmodule/arm64.swiftdoc</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VanKu05Rmv0e8ZGTSvrvZepnaFk/cuw76/MUOHg/EUw=
+			awMc8pFhtKG7tWR22N/Dfif7n/J7FOhXeq6BkFcfBvQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

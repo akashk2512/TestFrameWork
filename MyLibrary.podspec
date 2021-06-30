@@ -6,19 +6,19 @@ Pod::Spec.new do |spec|
   MyLibrary is a swift framework
                    DESC
 
-  spec.homepage     = "https://github.com/akashk2512"
+  spec.homepage     = "https://github.com/akashk2512/TestFrameWork"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author             = { "Akash" => "akashk2512@gmail.com" }
 
   spec.source       = { :git => "https://github.com/akashk2512/TestFrameWork.git", :tag => "#{spec.version}" }
-  spec.public_header_files = "MyLibrary.framework/Headers/*.h"
+  #spec.public_header_files = "MyLibrary.framework/Headers/*.h"
   spec.source_files  = "MyLibrary.framework/Headers/*.h"
-  spec.vendored_frameworks = "MyLibrary.framework"
+  #spec.vendored_frameworks = "MyLibrary.framework"
 
+  spec.exclude_files = "Classes/Exclude"
 
-
-  spec.platform = :ios
+  spec.platform = :ios, "12.1"
   spec.swift_version = "4.2"
-  spec.ios.deployment_target  = '12.0'
+  #spec.ios.deployment_target  = '12.0'
 
 end
